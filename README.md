@@ -45,6 +45,3 @@ Hi 👋 I'm **Hiyansh Zala**, a passionate student developer from India 🇮🇳
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=hiyansh10&show_icons=true&theme=dark"/>
